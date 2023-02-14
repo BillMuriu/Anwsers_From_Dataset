@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+(Slip Opinion) OCTOBER TERM, 2021 1 Syllabus NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued. The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader. See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337. SUPREME COURT OF THE UNITED STATES Syllabus DOBBS, STATE HEALTH OFFICER OF THE MISSISSIPPI DEPARTMENT OF HEALTH, ET AL. v. JACKSON WOMENS HEALTH ORGANIZATION ET AL. CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT No. 191392. Argued December 1, 2021Decided June 24, 2022 Mississippis Gestational Age Act provides that [e]xcept in a medical emergency or in the case of a severe fetal abnormality, a person shall not intentionally or knowingly perform . . . or induce an abortion of an unborn human being if the probable gestational age of the unborn human being has been determined to be greater than fifteen (15) weeks. Miss. Code Ann. 4141191. RespondentsJackson Womens Health Organization, an abortion clinic, and one of its doctorschallenged the Act in Federal District Court, alleging that it violated this Courts precedents establishing a constitutional right to abortion, in particular Roe v. Wade, 410 U. S. 113, and Planned Parenthood of Southeastern Pa. v. Casey, 505 U. S. 833. The District Court granted summary judgment in favor of respondents and permanently enjoined enforcement of the Act, reasoning that Mississippis 15-week restriction on abortion violates this Courts cases forbidding States to ban abortion pre-viability. The Fifth Circuit affirmed. Before this Court, petitioners defend the Act on the grounds that Roe and Casey were wrongly decided and that the Act is constitutional because it satisfies rational-basis review. Held: The Constitution does not confer a right to abortion; Roe and Casey are overruled; and the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Supreme Court of the United States has overturned the lower court's ruling that Mississipi's Gestational Age Act, which bans abortions after 15 weeks, is unconstitutional. The Court has ruled that there is no constitutional right to abortion, and that the Act is therefore constitutional.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+undue burden test by setting out three subsidiary rules, but these rules created their own problems. And the difficulty of applying Caseys new rules surfaced in that very case. Compare 505 U. S., at 881 887, with id., at 920922 (Stevens, J., concurring in part and dissenting in part). The experience of the Courts of Appeals provides further evidence that Caseys line between permissible and unconstitutional restrictions has proved to be impossible to draw with precision. Janus, 585 U. S., at ___. Casey has generated a long list of Circuit conflicts. Continued adherence to Caseys unworkable undue burden test would undermine, not advance, the evenhanded, predictable, and consistent development of legal principles. Payne, 501 U. S., at 827. Pp. 5662. (4) Effect on other areas of law. Roe and Casey have led to the distortion of many important but unrelated legal doctrines, and that effect provides further support for overruling those decisions. See Ramos v. Louisiana, 590 U. S. ___, ___ (KAVANAUGH, J., concurring in part). Pp. 6263. (5) Reliance interests. Overruling Roe and Casey will not upend concrete reliance interests like those that develop in cases involving property and contract rights. Payne, 501 U. S., at 828. In Casey, the controlling opinion conceded that traditional reliance interests were       Cite as: 597 U. S. ____ (2022) 7 Syllabus not implicated because getting an abortion is generally unplanned activity, and reproductive planning could take virtually immediate account of any sudden restoration of state authority to ban abortions. 505 U. S., at 856. Instead, the opinion perceived a more intangible form of reliance, namely, that people [had] organized intimate relationships and made choices that define their views of themselves and their places in society . . . in reliance on the availability of abortion in the event that contraception should fail and that [t]he ability of women to participate equally in the economic and social
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Supreme Court has ruled that the "undue burden test" created by the Casey decision is unworkable and must be overruled. This test had created problems by setting out three subsidiary rules which created their own problems. The Court ruled that the continued adherence to Casey's test would undermine the evenhanded, predictable, and consistent development of legal principles.

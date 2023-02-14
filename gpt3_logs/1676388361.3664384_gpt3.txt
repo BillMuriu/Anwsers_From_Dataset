@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Court provided the sort of explanation that might be expected from a legislative body. An even more glaring deficiency was Roes failure to justify the critical distinction it drew between pre- and post-viability abortions. See id., at 163. The arbitrary viability line, which Casey termed Roes central rule, has not found much support among philosophers and ethicists who have attempted to justify a right to abortion. The most obvious problem with any such      6 DOBBS v. JACKSON WOMENS HEALTH ORGANIZATION Syllabus argument is that viability has changed over time and is heavily dependent on factorssuch as medical advances and the availability of quality medical carethat have nothing to do with the characteristics of a fetus. When Casey revisited Roe almost 20 years later, it reaffirmed Roes central holding, but pointedly refrained from endorsing most of its reasoning. The Court abandoned any reliance on a privacy right and instead grounded the abortion right entirely on the Fourteenth Amendments Due Process Clause. 505 U. S., at 846. The controlling opinion criticized and rejected Roes trimester scheme, 505 U. S., at 872, and substituted a new and obscure undue burden test. Casey, in short, either refused to reaffirm or rejected important aspects of Roes analysis, failed to remedy glaring deficiencies in Roes reasoning, endorsed what it termed Roes central holding while suggesting that a majority might not have thought it was correct, provided no new support for the abortion right other than Roes status as precedent, and imposed a new test with no firm grounding in constitutional text, history, or precedent. Pp. 4556. (3) Workability. Deciding whether a precedent should be overruled depends in part on whether the rule it imposes is workablethat is, whether it can be understood and applied in a consistent and predictable manner. Caseys undue burden test has scored poorly on the workability scale. The Casey plurality tried to put meaning into the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Court in Dobbs v. Jackson Women's Health Organization ruled that the "undue burden" test from Casey is unworkable and should be overruled. The "undue burden" test from Casey is a test that has been used to determine whether or not a state regulation of abortion is constitutional. The problem with the test is that it is not clear what qualifies as an "undue burden." The Court in Dobbs held that the "undue burden" test is unworkable because it is too vague and cannot be consistently applied.

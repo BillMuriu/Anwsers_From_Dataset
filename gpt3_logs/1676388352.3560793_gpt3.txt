@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+posed by abortion. Accordingly, those cases do not support the right to obtain an abortion, and the Courts conclusion that the Constitution does not confer such a right does not undermine them in any way. Pp. 3032. (b) The doctrine of stare decisis does not counsel continued acceptance of Roe and Casey. Stare decisis plays an important role and protects the interests of those who have taken action in reliance on a past decision. It reduces incentives for challenging settled precedents, saving parties and courts the expense of endless relitigation. Kimble v. Marvel Entertainment, LLC, 576 U. S. 446, 455. It contributes to the actual and perceived integrity of the judicial process. Payne v. Tennessee, 501 U. S. 808, 827. And it restrains judicial hubris by respecting the judgment of those who grappled with important questions in the past. But stare decisis is not an inexorable command, Pearson v. Callahan, 555 U. S. 223, 233, and is at its weakest when [the Court] interpret[s] the Constitution, Agostini v. Felton, 521 U. S. 203, 235. Some of the Courts most important constitutional decisions have overruled prior precedents. See, e.g., Brown v. Board of Education, 347 U. S. 483, 491 (overruling the infamous decision in Plessy v. Ferguson, 163 U. S. 537, and its progeny). The Courts cases have identified factors that should be considered in deciding when a precedent should be overruled. Janus v. State, County, and Municipal Employees, 585 U. S. ___, ______. Five factors  Cite as: 597 U. S. ____ (2022) 5 Syllabus discussed below weigh strongly in favor of overruling Roe and Casey. Pp. 3966. (1) The nature of the Courts error. Like the infamous decision in Plessy v. Ferguson, Roe was also egregiously wrong and on a collision course with the Constitution from the day it was decided. Casey perpetuated its errors, calling both sides of the national controversy to resolve their debate, but in doing so, Casey necessarily declared a winning side. Those on the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Supreme Court has ruled that the Constitution does not protect the right to an abortion, and that the doctrine of stare decisis does not require continued acceptance of Roe v. Wade and Casey v. Planned Parenthood. The Court has identified five factors that weigh strongly in favor of overruling Roe and Casey: the nature of the Court's error, the subsequent development of the law, the reliance interests at stake, the workability of the decision, and the legitimacy of the Court's process.

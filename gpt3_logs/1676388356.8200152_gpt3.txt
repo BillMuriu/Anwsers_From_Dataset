@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+losing sidethose who sought to advance the States interest in fetal lifecould no longer seek to persuade their elected representatives to adopt policies consistent with their views. The Court short-circuited the democratic process by closing it to the large number of Americans who disagreed with Roe. Pp. 4345. (2) The quality of the reasoning. Without any grounding in the constitutional text, history, or precedent, Roe imposed on the entire country a detailed set of rules for pregnancy divided into trimesters much like those that one might expect to find in a statute or regulation. See 410 U. S., at 163164. Roes failure even to note the overwhelming consensus of state laws in effect in 1868 is striking, and what it said about the common law was simply wrong. Then, after surveying history, the opinion spent many paragraphs conducting the sort of factfinding that might be undertaken by a legislative committee, and did not explain why the sources on which it relied shed light on the meaning of the Constitution. As to precedent, citing a broad array of cases, the Court found support for a constitutional right of personal privacy. Id., at 152. But Roe conflated the right to shield information from disclosure and the right to make and implement important personal decisions without governmental interference. See Whalen v. Roe, 429 U. S. 589, 599600. None of these decisions involved what is distinctive about abortion: its effect on what Roe termed potential life. When the Court summarized the basis for the scheme it imposed on the country, it asserted that its rules were consistent with, among other things, the relative weights of the respective interests involved and the demands of the profound problems of the present day. Roe, 410 U. S., at 165. These are precisely the sort of considerations that legislative bodies often take into account when they draw lines that accommodate competing interests. The scheme Roe produced looked like legislation, and the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Supreme Court, in Roe v. Wade, short-circuited the democratic process by closing it to the large number of Americans who disagreed with Roe. Roe imposed on the entire country a detailed set of rules for pregnancy divided into trimesters, without any grounding in the constitutional text, history, or precedent. The Court's reasoning failed to explain why the sources on which it relied shed light on the meaning of the Constitution. The scheme Roe produced looked like legislation, and the Court did not have the authority to legislate on this issue.

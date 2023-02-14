@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+is rooted in the Nations history and tradition and whether it is an essential component of ordered liberty. The Court finds that the right to abortion is not deeply rooted in the Nations history and tradition. The underlying theory on which Casey restedthat the Fourteenth Amendments Due Process Clause provides substantive, as well as procedural, protection for libertyhas long been controversial. The Courts decisions have held that the Due Process Clause protects two categories of substantive rightsthose rights guaranteed by the first eight Amendments to the Constitution and those rights deemed fundamental that are not mentioned anywhere in the Constitution. In deciding whether a right falls into either of these categories, the question is whether the right is deeply rooted in [our] history and tradition and whether it is essential to this Nations scheme of ordered liberty. Timbs v. Indiana, 586 U. S. ___, ___ (internal quotation marks omitted). The term liberty alone provides little guidance. Thus, historical inquiries are essential whenever the Court is asked to recognize a new component of the liberty interest protected by the Due Process Clause. In interpreting what is meant by liberty, the Court must guard against the natural human tendency to confuse what the Fourteenth Amendment protects with the Courts own ardent views about the liberty that Americans should enjoy. For this reason,      Cite as: 597 U. S. ____ (2022) 3 Syllabus the Court has been reluctant to recognize rights that are not mentioned in the Constitution. Collins v. Harker Heights, 503 U. S. 115, 125. Guided by the history and tradition that map the essential components of the Nations concept of ordered liberty, the Court finds the Fourteenth Amendment clearly does not protect the right to an abortion. Until the latter part of the 20th century, there was no support in American law for a constitutional right to obtain an abortion. No state constitutional provision had
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Supreme Court has ruled that the right to abortion is not deeply rooted in the nation's history and tradition, and is therefore not protected by the Fourteenth Amendment's Due Process Clause. The Court has stated that historical inquiries are essential in determining which rights are protected by the Clause, as the term "liberty" alone provides little guidance. The Court has been reluctant to recognize rights that are not mentioned in the Constitution, and in this case has found that the right to abortion does not meet the criteria for protection under the Fourteenth Amendment.

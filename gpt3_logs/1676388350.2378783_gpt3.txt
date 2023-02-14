@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+thought the States lacked the authority to do so. Instead of seriously pressing the argument that the abortion right itself has deep roots, supporters of Roe and Casey contend that the abortion right is an integral part of a broader entrenched right. Roe termed this a right to privacy, 410 U. S., at 154, and Casey described it as the freedom to make intimate and personal choices that are central to personal dignity and autonomy, 505 U. S., at 851. Ordered     4 DOBBS v. JACKSON WOMENS HEALTH ORGANIZATION Syllabus liberty sets limits and defines the boundary between competing interests. Roe and Casey each struck a particular balance between the interests of a woman who wants an abortion and the interests of what they termed potential life. Roe, 410 U. S., at 150; Casey, 505 U. S., at 852. But the people of the various States may evaluate those interests differently. The Nations historical understanding of ordered liberty does not prevent the peoples elected representatives from deciding how abortion should be regulated. Pp. 1130. (3) Finally, the Court considers whether a right to obtain an abortion is part of a broader entrenched right that is supported by other precedents. The Court concludes the right to obtain an abortion cannot be justified as a component of such a right. Attempts to justify abortion through appeals to a broader right to autonomy and to define ones concept of existence prove too much. Casey, 505 U. S., at 851. Those criteria, at a high level of generality, could license fundamental rights to illicit drug use, prostitution, and the like. What sharply distinguishes the abortion right from the rights recognized in the cases on which Roe and Casey rely is something that both those decisions acknowledged: Abortion is different because it destroys what Roe termed potential life and what the law challenged in this case calls an unborn human being. None of the other decisions cited by Roe and Casey involved the critical moral question
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Supreme Court ruled that the right to an abortion cannot be justified as a component of a broader right, and that the right to an abortion is different because it destroys potential life.

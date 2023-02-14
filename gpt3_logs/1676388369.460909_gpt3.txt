@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+regulations are challenged under the Constitution, courts cannot substitute their social and economic beliefs for the judgment of legislative bodies. Ferguson, 372 U. S., at 729730. That applies even when the laws at issue concern matters of great social significance and moral substance. A law regulating abortion, like other health and welfare laws, is entitled to a
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Constitution allows for laws to be challenged, but courts cannot substitute their own social or economic beliefs for the judgment of legislative bodies. This applies even to laws regulating abortion, which are entitled to a presumption of constitutionality.

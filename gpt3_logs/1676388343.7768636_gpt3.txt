@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+authority to regulate abortion is returned to the people and their elected representatives. Pp. 879. (a) The critical question is whether the Constitution, properly understood, confers a right to obtain an abortion. Caseys controlling opinion skipped over that question and reaffirmed Roe solely on the basis of stare decisis. A proper application of stare decisis, however, requires an assessment of the strength of the grounds on which Roe      2 DOBBS v. JACKSON WOMENS HEALTH ORGANIZATION Syllabus was based. The Court therefore turns to the question that the Casey plurality did not consider. Pp. 832. (1) First, the Court reviews the standard that the Courts cases have used to determine whether the Fourteenth Amendments reference to liberty protects a particular right. The Constitution makes no express reference to a right to obtain an abortion, but several constitutional provisions have been offered as potential homes for an implicit constitutional right. Roe held that the abortion right is part of a right to privacy that springs from the First, Fourth, Fifth, Ninth, and Fourteenth Amendments. See 410 U. S., at 152153. The Casey Court grounded its decision solely on the theory that the right to obtain an abortion is part of the liberty protected by the Fourteenth Amendments Due Process Clause. Others have suggested that support can be found in the Fourteenth Amendments Equal Protection Clause, but that theory is squarely foreclosed by the Courts precedents, which establish that a States regulation of abortion is not a sex-based classification and is thus not subject to the heightened scrutiny that applies to such classifications. See Geduldig v. Aiello, 417 U. S. 484, 496, n. 20; Bray v. Alexandria Womens Health Clinic, 506 U. S. 263, 273 274. Rather, regulations and prohibitions of abortion are governed by the same standard of review as other health and safety measures. Pp. 911. (2) Next, the Court examines whether the right to obtain an abortion
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Supreme Court revisits the question of whether there is a constitutional right to abortion, one that has been left open since the Casey decision. The Court looks at the various constitutional provisions that have been put forth as potential sources for such a right, but ultimately concludes that there is no explicit or implicit right to abortion in the Constitution.
